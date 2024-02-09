@@ -45,9 +45,8 @@ pip uninstall -y transformers accelerate
 pip install transformers accelerate
 ```
 
-
-```bash
 # Finally run the following command
+```bash
 python app.py
 ```
 
