@@ -37,7 +37,11 @@ pip install -r requirements.txt
 ### STEP 03- upgrade transformer accelerate
 ```bash
 pip install --upgrade accelerate
+```
+```bash
 pip uninstall -y transformers accelerate
+```
+```bash
 pip install transformers accelerate
 ```
 
